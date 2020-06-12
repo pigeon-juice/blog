@@ -5,3 +5,8 @@
 - заметки по теме своих путешествий;
 
 и еще какую-то фигню, чтоб не забыть.
+
+## Темы
+- [Languages](blog/languages/index.md)
+- [Trips](blog/trips/index.md)
+- [Random](blog/other/index.md)
