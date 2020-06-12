@@ -7,6 +7,6 @@
 и еще какую-то фигню, чтоб не забыть.
 
 ## Темы
-- [Languages](../languages)
-- [Trips](../trips)
-- [Random](../other)
+- [Languages](./languages)
+- [Trips](./trips)
+- [Random](./other)
