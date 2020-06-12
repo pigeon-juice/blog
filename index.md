@@ -7,6 +7,6 @@
 и еще какую-то фигню, чтоб не забыть.
 
 ## Темы
-- [Languages](https://bored-elk.github.io/blog/languages)
-- [Trips](https://bored-elk.github.io/blog/trips)
-- [Random](https://bored-elk.github.io/blog/other)
+- [Languages](../languages)
+- [Trips](../trips)
+- [Random](../other)
