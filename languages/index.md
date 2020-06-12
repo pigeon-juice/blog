@@ -1,3 +1,3 @@
 ### Languages
-- [Français](../languages/français/)
-- [English](../languages/english/)
+- [Français](./languages/français/)
+- [English](./languages/english/)
