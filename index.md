@@ -8,7 +8,8 @@
 и еще какую-то фигню, чтоб не забыть.
 
 ## Темы
-- [Languages](./languages)
-- [Trips](./trips)
-- [Music](./music)
+- [Изучение языков](./languages)
+- [Музыка](./music)
+- [Путешествия](./trips)
+- [Рецепты](./recipes)
 - [Random](./random)
