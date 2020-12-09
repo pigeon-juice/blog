@@ -181,6 +181,7 @@
 6. Сбрызните оливковым маслом и посыпьте перцем.
 
 Оригинальный рецепт [тут](https://www.haaretz.com/food/.premium-how-to-make-shawarma-like-an-israeli-1.5467110) и [тут](https://www.touchpointisrael.com/2018/05/22/recipe-homemade-shawarma/).
+
 ---
 
 # Рецепт питы
